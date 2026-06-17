@@ -17,6 +17,10 @@ type Props = {
   items: GraphicHook[];
 };
 
+function assetPath(path: string) {
+  return `${process.env.NEXT_PUBLIC_BASE_PATH ?? ""}${path}`;
+}
+
 export function GraphicHooksLibrary({ items }: Props) {
   const [activeCategory, setActiveCategory] = useState<Category>("Todos");
   const [query, setQuery] = useState("");
@@ -163,7 +167,7 @@ export function GraphicHooksLibrary({ items }: Props) {
                   <img
                     alt={`Screenshot do hook de ${selected.creator}`}
                     className="aspect-[9/16] h-[66vh] max-h-[720px] w-full object-cover"
-                    src={selected.gif || selected.screenshot}
+                    src={assetPath(selected.gif || selected.screenshot)}
                   />
                 </div>
                 <div className="grid grid-cols-3 gap-2">
@@ -172,7 +176,7 @@ export function GraphicHooksLibrary({ items }: Props) {
                       alt={`Frame sequencial de ${selected.creator}`}
                       className="aspect-[9/16] rounded-xl border border-line object-cover"
                       key={frame}
-                      src={frame}
+                      src={assetPath(frame)}
                     />
                   ))}
                 </div>
@@ -242,7 +246,7 @@ function GraphicHookCard({ item, onSelect }: { item: GraphicHook; onSelect: () =
             alt={`Graphic hook de ${item.creator}`}
             className="h-full w-full object-cover transition duration-300 ease-out group-hover:scale-[1.025]"
             loading="lazy"
-            src={item.screenshot}
+            src={assetPath(item.screenshot)}
           />
           <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-transparent to-transparent opacity-80" />
           <div className="absolute bottom-3 left-3 right-3">
