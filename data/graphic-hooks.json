@@ -1,0 +1,169 @@
+[
+  {
+    "id": "devin-jatho-graphic-visual-hook",
+    "creator": "Devin Jatho",
+    "url": "https://www.instagram.com/reel/C-lCXMDRl5z/",
+    "timestamp": "00:01",
+    "visualCategory": "Motion Graphics",
+    "complexity": "Média",
+    "hookStructure": "Camada central com objeto/ícone grande, zoom rápido e elementos auxiliares orbitando para resumir a ideia visual antes da fala.",
+    "howToRecreate": "Criar uma composição vertical 1080x1920, escolher um objeto principal, aplicar scale-in nos primeiros 8 frames, adicionar glow discreto, sombras suaves e 2 a 4 elementos secundários com movimento curto.",
+    "assetsNeeded": [
+      "Print/recorte do objeto principal",
+      "Ícones simples",
+      "Background escuro",
+      "Preset de blur/glow",
+      "SFX curto de impacto"
+    ],
+    "estimatedProductionTime": "45-90 min",
+    "notes": "Usar como template para transformar uma ideia abstrata em símbolo visual imediato.",
+    "source": "Instagram",
+    "originalUrl": "https://www.instagram.com/reel/C-lCXMDRl5z/",
+    "screenshot": "/hooks/devin-jatho-graphic-visual-hook/screenshot.jpg",
+    "sequence": [
+      "/hooks/devin-jatho-graphic-visual-hook/frame-01.jpg",
+      "/hooks/devin-jatho-graphic-visual-hook/frame-02.jpg",
+      "/hooks/devin-jatho-graphic-visual-hook/frame-03.jpg"
+    ],
+    "gif": "/hooks/devin-jatho-graphic-visual-hook/sequence.gif"
+  },
+  {
+    "id": "devin-jatho-transform-hooks",
+    "creator": "Devin Jatho",
+    "url": "https://www.instagram.com/reel/DG8V0iuRQgv/",
+    "timestamp": "00:01",
+    "visualCategory": "Comparações",
+    "complexity": "Média",
+    "hookStructure": "Comparação visual de estados antes/depois com escala, deslocamento e contraste entre versões.",
+    "howToRecreate": "Montar duas placas ou telas lado a lado, animar a versão fraca saindo e a versão forte entrando, usar setas/linhas simples e manter tudo legível em 1 segundo.",
+    "assetsNeeded": [
+      "Duas telas/placas",
+      "Setas",
+      "Ícones de status",
+      "Texturas leves",
+      "Whoosh curto"
+    ],
+    "estimatedProductionTime": "60-120 min",
+    "notes": "Reutilizável para antes/depois, ruim/bom, comum/premium.",
+    "source": "Instagram",
+    "originalUrl": "https://www.instagram.com/reel/DG8V0iuRQgv/",
+    "screenshot": "/hooks/devin-jatho-transform-hooks/screenshot.jpg",
+    "sequence": [
+      "/hooks/devin-jatho-transform-hooks/frame-01.jpg",
+      "/hooks/devin-jatho-transform-hooks/frame-02.jpg",
+      "/hooks/devin-jatho-transform-hooks/frame-03.jpg"
+    ],
+    "gif": "/hooks/devin-jatho-transform-hooks/sequence.gif"
+  },
+  {
+    "id": "devin-jatho-one-to-five-hooks",
+    "creator": "Devin Jatho",
+    "url": "https://www.instagram.com/reel/DW6XScbDDsU/",
+    "timestamp": "00:01",
+    "visualCategory": "Mapas & Diagramas",
+    "complexity": "Alta",
+    "hookStructure": "Uma ideia central se ramifica em múltiplas opções visuais, funcionando como mapa mental dinâmico.",
+    "howToRecreate": "Criar nó central, duplicar cards pequenos em volta, conectar com linhas finas e animar expansão radial com stagger de 80ms.",
+    "assetsNeeded": [
+      "Cards modulares",
+      "Linhas conectoras",
+      "Ícones de categoria",
+      "Background escuro",
+      "Preset de stagger"
+    ],
+    "estimatedProductionTime": "90-150 min",
+    "notes": "Bom para vídeos de frameworks, listas e sistemas criativos.",
+    "source": "Instagram",
+    "originalUrl": "https://www.instagram.com/reel/DW6XScbDDsU/",
+    "screenshot": "/hooks/devin-jatho-one-to-five-hooks/screenshot.jpg",
+    "sequence": [
+      "/hooks/devin-jatho-one-to-five-hooks/frame-01.jpg",
+      "/hooks/devin-jatho-one-to-five-hooks/frame-02.jpg",
+      "/hooks/devin-jatho-one-to-five-hooks/frame-03.jpg"
+    ],
+    "gif": "/hooks/devin-jatho-one-to-five-hooks/sequence.gif"
+  },
+  {
+    "id": "devin-jatho-untitled-document",
+    "creator": "Devin Jatho",
+    "url": "https://www.instagram.com/reel/DL5ukfYS23i/",
+    "timestamp": "00:01",
+    "visualCategory": "Documentos",
+    "complexity": "Média",
+    "hookStructure": "Documento falso ou editor de texto ocupando a tela, usado como objeto visual familiar e rápido de entender.",
+    "howToRecreate": "Criar janela de documento com barra superior, área branca/cinza, cursor ou highlights e zoom-in no elemento que importa.",
+    "assetsNeeded": [
+      "Mockup de documento",
+      "Cursor",
+      "Highlights",
+      "Barra de menu",
+      "Sombra de janela"
+    ],
+    "estimatedProductionTime": "45-75 min",
+    "notes": "Funciona para transformar conselho abstrato em peça visual concreta.",
+    "source": "Instagram",
+    "originalUrl": "https://www.instagram.com/reel/DL5ukfYS23i/",
+    "screenshot": "/hooks/devin-jatho-untitled-document/screenshot.jpg",
+    "sequence": [
+      "/hooks/devin-jatho-untitled-document/frame-01.jpg",
+      "/hooks/devin-jatho-untitled-document/frame-02.jpg",
+      "/hooks/devin-jatho-untitled-document/frame-03.jpg"
+    ],
+    "gif": "/hooks/devin-jatho-untitled-document/sequence.gif"
+  },
+  {
+    "id": "devin-jatho-100-vs-1m",
+    "creator": "Devin Jatho",
+    "url": "https://www.instagram.com/reel/DLpgNYQMZlm/",
+    "timestamp": "00:01",
+    "visualCategory": "Comparações",
+    "complexity": "Baixa",
+    "hookStructure": "Dois resultados extremos em cards grandes para gerar contraste visual imediato.",
+    "howToRecreate": "Criar dois blocos grandes com valores opostos, separar por linha vertical ou seta, usar escala no valor maior e reduzir ruído visual.",
+    "assetsNeeded": [
+      "Dois cards",
+      "Seta ou divisor",
+      "Textura de fundo",
+      "SFX de pop"
+    ],
+    "estimatedProductionTime": "30-60 min",
+    "notes": "Template simples para performance, transformação e prova visual.",
+    "source": "Instagram",
+    "originalUrl": "https://www.instagram.com/reel/DLpgNYQMZlm/",
+    "screenshot": "/hooks/devin-jatho-100-vs-1m/screenshot.jpg",
+    "sequence": [
+      "/hooks/devin-jatho-100-vs-1m/frame-01.jpg",
+      "/hooks/devin-jatho-100-vs-1m/frame-02.jpg",
+      "/hooks/devin-jatho-100-vs-1m/frame-03.jpg"
+    ],
+    "gif": "/hooks/devin-jatho-100-vs-1m/sequence.gif"
+  },
+  {
+    "id": "devin-jatho-visual-structure",
+    "creator": "Devin Jatho",
+    "url": "https://www.instagram.com/reel/DWlvxUpjPQ6/",
+    "timestamp": "00:01",
+    "visualCategory": "Interfaces",
+    "complexity": "Alta",
+    "hookStructure": "Camadas de interface e estrutura visual empilhadas para mostrar sistema, não apenas uma frase.",
+    "howToRecreate": "Empilhar 3 a 5 painéis semi-transparentes, animar profundidade em Z fake, usar bordas finas e um elemento focal colorido.",
+    "assetsNeeded": [
+      "Painéis glass",
+      "Ícones",
+      "Linhas de conexão",
+      "Blur",
+      "Sombra longa"
+    ],
+    "estimatedProductionTime": "90-180 min",
+    "notes": "Bom para hooks de diagnóstico, análise e breakdown.",
+    "source": "Instagram",
+    "originalUrl": "https://www.instagram.com/reel/DWlvxUpjPQ6/",
+    "screenshot": "/hooks/devin-jatho-visual-structure/screenshot.jpg",
+    "sequence": [
+      "/hooks/devin-jatho-visual-structure/frame-01.jpg",
+      "/hooks/devin-jatho-visual-structure/frame-02.jpg",
+      "/hooks/devin-jatho-visual-structure/frame-03.jpg"
+    ],
+    "gif": "/hooks/devin-jatho-visual-structure/sequence.gif"
+  }
+]
