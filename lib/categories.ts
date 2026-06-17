@@ -17,7 +17,7 @@ export type Complexity = "Baixa" | "Média" | "Alta";
 export type GraphicHook = {
   id: string;
   creator: string;
-  source: "Instagram";
+  source: "Instagram" | "YouTube";
   originalUrl: string;
   timestamp: string;
   visualCategory: Exclude<Category, "Todos">;

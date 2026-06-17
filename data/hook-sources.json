@@ -8,7 +8,13 @@
     "complexity": "Média",
     "hookStructure": "Camada central com objeto/ícone grande, zoom rápido e elementos auxiliares orbitando para resumir a ideia visual antes da fala.",
     "howToRecreate": "Criar uma composição vertical 1080x1920, escolher um objeto principal, aplicar scale-in nos primeiros 8 frames, adicionar glow discreto, sombras suaves e 2 a 4 elementos secundários com movimento curto.",
-    "assetsNeeded": ["Print/recorte do objeto principal", "Ícones simples", "Background escuro", "Preset de blur/glow", "SFX curto de impacto"],
+    "assetsNeeded": [
+      "Print/recorte do objeto principal",
+      "Ícones simples",
+      "Background escuro",
+      "Preset de blur/glow",
+      "SFX curto de impacto"
+    ],
     "estimatedProductionTime": "45-90 min",
     "notes": "Usar como template para transformar uma ideia abstrata em símbolo visual imediato."
   },
@@ -21,7 +27,13 @@
     "complexity": "Média",
     "hookStructure": "Comparação visual de estados antes/depois com escala, deslocamento e contraste entre versões.",
     "howToRecreate": "Montar duas placas ou telas lado a lado, animar a versão fraca saindo e a versão forte entrando, usar setas/linhas simples e manter tudo legível em 1 segundo.",
-    "assetsNeeded": ["Duas telas/placas", "Setas", "Ícones de status", "Texturas leves", "Whoosh curto"],
+    "assetsNeeded": [
+      "Duas telas/placas",
+      "Setas",
+      "Ícones de status",
+      "Texturas leves",
+      "Whoosh curto"
+    ],
     "estimatedProductionTime": "60-120 min",
     "notes": "Reutilizável para antes/depois, ruim/bom, comum/premium."
   },
@@ -34,7 +46,13 @@
     "complexity": "Alta",
     "hookStructure": "Uma ideia central se ramifica em múltiplas opções visuais, funcionando como mapa mental dinâmico.",
     "howToRecreate": "Criar nó central, duplicar cards pequenos em volta, conectar com linhas finas e animar expansão radial com stagger de 80ms.",
-    "assetsNeeded": ["Cards modulares", "Linhas conectoras", "Ícones de categoria", "Background escuro", "Preset de stagger"],
+    "assetsNeeded": [
+      "Cards modulares",
+      "Linhas conectoras",
+      "Ícones de categoria",
+      "Background escuro",
+      "Preset de stagger"
+    ],
     "estimatedProductionTime": "90-150 min",
     "notes": "Bom para vídeos de frameworks, listas e sistemas criativos."
   },
@@ -47,7 +65,13 @@
     "complexity": "Média",
     "hookStructure": "Documento falso ou editor de texto ocupando a tela, usado como objeto visual familiar e rápido de entender.",
     "howToRecreate": "Criar janela de documento com barra superior, área branca/cinza, cursor ou highlights e zoom-in no elemento que importa.",
-    "assetsNeeded": ["Mockup de documento", "Cursor", "Highlights", "Barra de menu", "Sombra de janela"],
+    "assetsNeeded": [
+      "Mockup de documento",
+      "Cursor",
+      "Highlights",
+      "Barra de menu",
+      "Sombra de janela"
+    ],
     "estimatedProductionTime": "45-75 min",
     "notes": "Funciona para transformar conselho abstrato em peça visual concreta."
   },
@@ -60,7 +84,12 @@
     "complexity": "Baixa",
     "hookStructure": "Dois resultados extremos em cards grandes para gerar contraste visual imediato.",
     "howToRecreate": "Criar dois blocos grandes com valores opostos, separar por linha vertical ou seta, usar escala no valor maior e reduzir ruído visual.",
-    "assetsNeeded": ["Dois cards", "Seta ou divisor", "Textura de fundo", "SFX de pop"],
+    "assetsNeeded": [
+      "Dois cards",
+      "Seta ou divisor",
+      "Textura de fundo",
+      "SFX de pop"
+    ],
     "estimatedProductionTime": "30-60 min",
     "notes": "Template simples para performance, transformação e prova visual."
   },
@@ -73,8 +102,1814 @@
     "complexity": "Alta",
     "hookStructure": "Camadas de interface e estrutura visual empilhadas para mostrar sistema, não apenas uma frase.",
     "howToRecreate": "Empilhar 3 a 5 painéis semi-transparentes, animar profundidade em Z fake, usar bordas finas e um elemento focal colorido.",
-    "assetsNeeded": ["Painéis glass", "Ícones", "Linhas de conexão", "Blur", "Sombra longa"],
+    "assetsNeeded": [
+      "Painéis glass",
+      "Ícones",
+      "Linhas de conexão",
+      "Blur",
+      "Sombra longa"
+    ],
     "estimatedProductionTime": "90-180 min",
     "notes": "Bom para hooks de diagnóstico, análise e breakdown."
+  },
+  {
+    "id": "devin-jatho-how-i-record-viral-instagram-reels-live",
+    "creator": "Devin Jatho",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=eqec4lxKrLU",
+    "timestamp": "00:01",
+    "visualCategory": "Motion Graphics",
+    "complexity": "Média",
+    "hookStructure": "Composição gráfica com objetos, ícones e formas animadas por scale, blur e deslocamento rápido.",
+    "howToRecreate": "Separar objeto principal, ícones auxiliares e formas de apoio. Aplicar scale, position, motion blur e glow discreto para gerar impacto rápido.",
+    "assetsNeeded": [
+      "Objeto principal",
+      "Ícones",
+      "Formas simples",
+      "Glow/blur",
+      "Whoosh curto"
+    ],
+    "estimatedProductionTime": "45-120 min",
+    "notes": "Referência coletada para estudar estrutura visual de motion graphics nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "devin-jatho-i-ve-created-500-viral-videos-these-3-will-get-you-a-million-views",
+    "creator": "Devin Jatho",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=dNU6qVnRvhw",
+    "timestamp": "00:01",
+    "visualCategory": "Motion Graphics",
+    "complexity": "Média",
+    "hookStructure": "Elemento central em destaque com micro animações periféricas para criar impacto visual antes da explicação.",
+    "howToRecreate": "Separar objeto principal, ícones auxiliares e formas de apoio. Aplicar scale, position, motion blur e glow discreto para gerar impacto rápido.",
+    "assetsNeeded": [
+      "Objeto principal",
+      "Ícones",
+      "Formas simples",
+      "Glow/blur",
+      "Whoosh curto"
+    ],
+    "estimatedProductionTime": "45-120 min",
+    "notes": "Referência coletada para estudar estrutura visual de motion graphics nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "devin-jatho-creating-37-viral-content-ideas-in-45-minutes-live",
+    "creator": "Devin Jatho",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=ejWcZxv41Q8",
+    "timestamp": "00:01",
+    "visualCategory": "Motion Graphics",
+    "complexity": "Média",
+    "hookStructure": "Composição gráfica com objetos, ícones e formas animadas por scale, blur e deslocamento rápido.",
+    "howToRecreate": "Separar objeto principal, ícones auxiliares e formas de apoio. Aplicar scale, position, motion blur e glow discreto para gerar impacto rápido.",
+    "assetsNeeded": [
+      "Objeto principal",
+      "Ícones",
+      "Formas simples",
+      "Glow/blur",
+      "Whoosh curto"
+    ],
+    "estimatedProductionTime": "45-120 min",
+    "notes": "Referência coletada para estudar estrutura visual de motion graphics nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "devin-jatho-how-to-grow-10-000-instagram-followers-fast-in-2026",
+    "creator": "Devin Jatho",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=y7x5GH6Lrww",
+    "timestamp": "00:01",
+    "visualCategory": "Motion Graphics",
+    "complexity": "Média",
+    "hookStructure": "Elemento central em destaque com micro animações periféricas para criar impacto visual antes da explicação.",
+    "howToRecreate": "Separar objeto principal, ícones auxiliares e formas de apoio. Aplicar scale, position, motion blur e glow discreto para gerar impacto rápido.",
+    "assetsNeeded": [
+      "Objeto principal",
+      "Ícones",
+      "Formas simples",
+      "Glow/blur",
+      "Whoosh curto"
+    ],
+    "estimatedProductionTime": "45-120 min",
+    "notes": "Referência coletada para estudar estrutura visual de motion graphics nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "devin-jatho-how-to-actually-make-viral-video-ideas",
+    "creator": "Devin Jatho",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=d66jDTv-dyI",
+    "timestamp": "00:01",
+    "visualCategory": "Motion Graphics",
+    "complexity": "Média",
+    "hookStructure": "Composição gráfica com objetos, ícones e formas animadas por scale, blur e deslocamento rápido.",
+    "howToRecreate": "Separar objeto principal, ícones auxiliares e formas de apoio. Aplicar scale, position, motion blur e glow discreto para gerar impacto rápido.",
+    "assetsNeeded": [
+      "Objeto principal",
+      "Ícones",
+      "Formas simples",
+      "Glow/blur",
+      "Whoosh curto"
+    ],
+    "estimatedProductionTime": "45-120 min",
+    "notes": "Referência coletada para estudar estrutura visual de motion graphics nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "hillier-smith-the-editing-that-makes-your-story-10x-deeper",
+    "creator": "Hillier Smith",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=mPhhBgTIG2Y",
+    "timestamp": "00:01",
+    "visualCategory": "Comparações",
+    "complexity": "Média",
+    "hookStructure": "Antes/depois ou lado a lado com contraste forte entre dois estados visuais e transição curta de substituição.",
+    "howToRecreate": "Criar dois estados visuais lado a lado, destacar a diferença com cor, escala ou seta e animar a troca em menos de um segundo.",
+    "assetsNeeded": [
+      "Dois painéis",
+      "Seta ou divisor",
+      "Labels curtos",
+      "Textura de fundo",
+      "SFX de impacto"
+    ],
+    "estimatedProductionTime": "45-120 min",
+    "notes": "Referência coletada para estudar estrutura visual de comparações nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "hillier-smith-3-editing-secrets-i-wish-i-knew-earlier",
+    "creator": "Hillier Smith",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=XIVSa3wo0JU",
+    "timestamp": "00:01",
+    "visualCategory": "Comparações",
+    "complexity": "Média",
+    "hookStructure": "Sistema de comparação com colunas, labels e escala para evidenciar evolução, escolha ou diferença de qualidade.",
+    "howToRecreate": "Criar dois estados visuais lado a lado, destacar a diferença com cor, escala ou seta e animar a troca em menos de um segundo.",
+    "assetsNeeded": [
+      "Dois painéis",
+      "Seta ou divisor",
+      "Labels curtos",
+      "Textura de fundo",
+      "SFX de impacto"
+    ],
+    "estimatedProductionTime": "45-120 min",
+    "notes": "Referência coletada para estudar estrutura visual de comparações nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "hillier-smith-how-logan-paul-s-best-video-was-made-editing-breakdown",
+    "creator": "Hillier Smith",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=2v-Dv5YYaGQ",
+    "timestamp": "00:01",
+    "visualCategory": "Comparações",
+    "complexity": "Média",
+    "hookStructure": "Antes/depois ou lado a lado com contraste forte entre dois estados visuais e transição curta de substituição.",
+    "howToRecreate": "Criar dois estados visuais lado a lado, destacar a diferença com cor, escala ou seta e animar a troca em menos de um segundo.",
+    "assetsNeeded": [
+      "Dois painéis",
+      "Seta ou divisor",
+      "Labels curtos",
+      "Textura de fundo",
+      "SFX de impacto"
+    ],
+    "estimatedProductionTime": "45-120 min",
+    "notes": "Referência coletada para estudar estrutura visual de comparações nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "hillier-smith-5-editing-secrets-you-ll-be-embarrassed-you-didn-t-know",
+    "creator": "Hillier Smith",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=q9O-3ezgS3Y",
+    "timestamp": "00:01",
+    "visualCategory": "Comparações",
+    "complexity": "Média",
+    "hookStructure": "Sistema de comparação com colunas, labels e escala para evidenciar evolução, escolha ou diferença de qualidade.",
+    "howToRecreate": "Criar dois estados visuais lado a lado, destacar a diferença com cor, escala ou seta e animar a troca em menos de um segundo.",
+    "assetsNeeded": [
+      "Dois painéis",
+      "Seta ou divisor",
+      "Labels curtos",
+      "Textura de fundo",
+      "SFX de impacto"
+    ],
+    "estimatedProductionTime": "45-120 min",
+    "notes": "Referência coletada para estudar estrutura visual de comparações nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "hillier-smith-how-to-make-a-david-dobrik-vlog-video-editor-reacts",
+    "creator": "Hillier Smith",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=NTGWV64knXA",
+    "timestamp": "00:01",
+    "visualCategory": "Comparações",
+    "complexity": "Média",
+    "hookStructure": "Antes/depois ou lado a lado com contraste forte entre dois estados visuais e transição curta de substituição.",
+    "howToRecreate": "Criar dois estados visuais lado a lado, destacar a diferença com cor, escala ou seta e animar a troca em menos de um segundo.",
+    "assetsNeeded": [
+      "Dois painéis",
+      "Seta ou divisor",
+      "Labels curtos",
+      "Textura de fundo",
+      "SFX de impacto"
+    ],
+    "estimatedProductionTime": "45-120 min",
+    "notes": "Referência coletada para estudar estrutura visual de comparações nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "daniel-schiffer-how-i-plan-shots-transitions-b-roll-101",
+    "creator": "Daniel Schiffer",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=3mZuJAWH1Ow",
+    "timestamp": "00:01",
+    "visualCategory": "Interfaces",
+    "complexity": "Alta",
+    "hookStructure": "Interface em camadas com janelas, botões e estados visuais que transformam uma ideia abstrata em produto navegável.",
+    "howToRecreate": "Criar um mockup 1080x1920 com painel principal, barra superior, botões e um cursor animado. Usar scale-in curto, highlight no elemento focal e blur leve no fundo.",
+    "assetsNeeded": [
+      "Mockup de app/software",
+      "Cursor",
+      "Ícones",
+      "Cards UI",
+      "Preset de glass/blur"
+    ],
+    "estimatedProductionTime": "90-180 min",
+    "notes": "Referência coletada para estudar estrutura visual de interfaces nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "daniel-schiffer-how-i-film-epic-handheld-b-roll-behind-the-scenes",
+    "creator": "Daniel Schiffer",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=JtitcwwEl-A",
+    "timestamp": "00:01",
+    "visualCategory": "Interfaces",
+    "complexity": "Alta",
+    "hookStructure": "Mockup de aplicativo ou sistema com foco em um painel principal, usando cursor, zoom e recortes para guiar o olhar.",
+    "howToRecreate": "Criar um mockup 1080x1920 com painel principal, barra superior, botões e um cursor animado. Usar scale-in curto, highlight no elemento focal e blur leve no fundo.",
+    "assetsNeeded": [
+      "Mockup de app/software",
+      "Cursor",
+      "Ícones",
+      "Cards UI",
+      "Preset de glass/blur"
+    ],
+    "estimatedProductionTime": "90-180 min",
+    "notes": "Referência coletada para estudar estrutura visual de interfaces nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "daniel-schiffer-i-made-a-1-000-froyo-commercial",
+    "creator": "Daniel Schiffer",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=2PO9LP9blGU",
+    "timestamp": "00:01",
+    "visualCategory": "Interfaces",
+    "complexity": "Alta",
+    "hookStructure": "Interface em camadas com janelas, botões e estados visuais que transformam uma ideia abstrata em produto navegável.",
+    "howToRecreate": "Criar um mockup 1080x1920 com painel principal, barra superior, botões e um cursor animado. Usar scale-in curto, highlight no elemento focal e blur leve no fundo.",
+    "assetsNeeded": [
+      "Mockup de app/software",
+      "Cursor",
+      "Ícones",
+      "Cards UI",
+      "Preset de glass/blur"
+    ],
+    "estimatedProductionTime": "90-180 min",
+    "notes": "Referência coletada para estudar estrutura visual de interfaces nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "daniel-schiffer-how-i-film-epic-pizza-b-roll-behind-the-scenes",
+    "creator": "Daniel Schiffer",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=uL3SWSm97-I",
+    "timestamp": "00:01",
+    "visualCategory": "Interfaces",
+    "complexity": "Alta",
+    "hookStructure": "Mockup de aplicativo ou sistema com foco em um painel principal, usando cursor, zoom e recortes para guiar o olhar.",
+    "howToRecreate": "Criar um mockup 1080x1920 com painel principal, barra superior, botões e um cursor animado. Usar scale-in curto, highlight no elemento focal e blur leve no fundo.",
+    "assetsNeeded": [
+      "Mockup de app/software",
+      "Cursor",
+      "Ícones",
+      "Cards UI",
+      "Preset de glass/blur"
+    ],
+    "estimatedProductionTime": "90-180 min",
+    "notes": "Referência coletada para estudar estrutura visual de interfaces nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "daniel-schiffer-the-one-editing-tip-i-wish-i-knew-earlier",
+    "creator": "Daniel Schiffer",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=OQgf1ObBKNY",
+    "timestamp": "00:01",
+    "visualCategory": "Interfaces",
+    "complexity": "Alta",
+    "hookStructure": "Interface em camadas com janelas, botões e estados visuais que transformam uma ideia abstrata em produto navegável.",
+    "howToRecreate": "Criar um mockup 1080x1920 com painel principal, barra superior, botões e um cursor animado. Usar scale-in curto, highlight no elemento focal e blur leve no fundo.",
+    "assetsNeeded": [
+      "Mockup de app/software",
+      "Cursor",
+      "Ícones",
+      "Cards UI",
+      "Preset de glass/blur"
+    ],
+    "estimatedProductionTime": "90-180 min",
+    "notes": "Referência coletada para estudar estrutura visual de interfaces nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "finzar-how-to-edit-youtube-videos-in-2026-ultimate-guide",
+    "creator": "Finzar",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=xmfSCKV7qUE",
+    "timestamp": "00:01",
+    "visualCategory": "Motion Graphics",
+    "complexity": "Média",
+    "hookStructure": "Composição gráfica com objetos, ícones e formas animadas por scale, blur e deslocamento rápido.",
+    "howToRecreate": "Separar objeto principal, ícones auxiliares e formas de apoio. Aplicar scale, position, motion blur e glow discreto para gerar impacto rápido.",
+    "assetsNeeded": [
+      "Objeto principal",
+      "Ícones",
+      "Formas simples",
+      "Glow/blur",
+      "Whoosh curto"
+    ],
+    "estimatedProductionTime": "45-120 min",
+    "notes": "Referência coletada para estudar estrutura visual de motion graphics nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "finzar-the-secret-to-editing-professional-videos-in-2026",
+    "creator": "Finzar",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=RutTgrCATwk",
+    "timestamp": "00:01",
+    "visualCategory": "Motion Graphics",
+    "complexity": "Média",
+    "hookStructure": "Elemento central em destaque com micro animações periféricas para criar impacto visual antes da explicação.",
+    "howToRecreate": "Separar objeto principal, ícones auxiliares e formas de apoio. Aplicar scale, position, motion blur e glow discreto para gerar impacto rápido.",
+    "assetsNeeded": [
+      "Objeto principal",
+      "Ícones",
+      "Formas simples",
+      "Glow/blur",
+      "Whoosh curto"
+    ],
+    "estimatedProductionTime": "45-120 min",
+    "notes": "Referência coletada para estudar estrutura visual de motion graphics nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "finzar-how-i-d-edit-a-viral-gaming-video-in-2026",
+    "creator": "Finzar",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=_laioiIuvtw",
+    "timestamp": "00:01",
+    "visualCategory": "Motion Graphics",
+    "complexity": "Média",
+    "hookStructure": "Composição gráfica com objetos, ícones e formas animadas por scale, blur e deslocamento rápido.",
+    "howToRecreate": "Separar objeto principal, ícones auxiliares e formas de apoio. Aplicar scale, position, motion blur e glow discreto para gerar impacto rápido.",
+    "assetsNeeded": [
+      "Objeto principal",
+      "Ícones",
+      "Formas simples",
+      "Glow/blur",
+      "Whoosh curto"
+    ],
+    "estimatedProductionTime": "45-120 min",
+    "notes": "Referência coletada para estudar estrutura visual de motion graphics nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "finzar-i-made-a-game-in-1-week-with-no-experience",
+    "creator": "Finzar",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=x3UllU4NJsY",
+    "timestamp": "00:01",
+    "visualCategory": "Motion Graphics",
+    "complexity": "Média",
+    "hookStructure": "Elemento central em destaque com micro animações periféricas para criar impacto visual antes da explicação.",
+    "howToRecreate": "Separar objeto principal, ícones auxiliares e formas de apoio. Aplicar scale, position, motion blur e glow discreto para gerar impacto rápido.",
+    "assetsNeeded": [
+      "Objeto principal",
+      "Ícones",
+      "Formas simples",
+      "Glow/blur",
+      "Whoosh curto"
+    ],
+    "estimatedProductionTime": "45-120 min",
+    "notes": "Referência coletada para estudar estrutura visual de motion graphics nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "finzar-i-tried-5-free-phone-editors-only-one-was-good",
+    "creator": "Finzar",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=2nTUbetdgSk",
+    "timestamp": "00:01",
+    "visualCategory": "Motion Graphics",
+    "complexity": "Média",
+    "hookStructure": "Composição gráfica com objetos, ícones e formas animadas por scale, blur e deslocamento rápido.",
+    "howToRecreate": "Separar objeto principal, ícones auxiliares e formas de apoio. Aplicar scale, position, motion blur e glow discreto para gerar impacto rápido.",
+    "assetsNeeded": [
+      "Objeto principal",
+      "Ícones",
+      "Formas simples",
+      "Glow/blur",
+      "Whoosh curto"
+    ],
+    "estimatedProductionTime": "45-120 min",
+    "notes": "Referência coletada para estudar estrutura visual de motion graphics nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "jack-cole-learn-everything-about-premiere-pro-tutorial",
+    "creator": "Jack Cole",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=1-sNJs-MFYo",
+    "timestamp": "00:01",
+    "visualCategory": "Motion Graphics",
+    "complexity": "Média",
+    "hookStructure": "Composição gráfica com objetos, ícones e formas animadas por scale, blur e deslocamento rápido.",
+    "howToRecreate": "Separar objeto principal, ícones auxiliares e formas de apoio. Aplicar scale, position, motion blur e glow discreto para gerar impacto rápido.",
+    "assetsNeeded": [
+      "Objeto principal",
+      "Ícones",
+      "Formas simples",
+      "Glow/blur",
+      "Whoosh curto"
+    ],
+    "estimatedProductionTime": "45-120 min",
+    "notes": "Referência coletada para estudar estrutura visual de motion graphics nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "jack-cole-how-i-save-hours-video-editing-with-submagic",
+    "creator": "Jack Cole",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=jH6SzGzI6Mo",
+    "timestamp": "00:01",
+    "visualCategory": "Motion Graphics",
+    "complexity": "Média",
+    "hookStructure": "Elemento central em destaque com micro animações periféricas para criar impacto visual antes da explicação.",
+    "howToRecreate": "Separar objeto principal, ícones auxiliares e formas de apoio. Aplicar scale, position, motion blur e glow discreto para gerar impacto rápido.",
+    "assetsNeeded": [
+      "Objeto principal",
+      "Ícones",
+      "Formas simples",
+      "Glow/blur",
+      "Whoosh curto"
+    ],
+    "estimatedProductionTime": "45-120 min",
+    "notes": "Referência coletada para estudar estrutura visual de motion graphics nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "jack-cole-beginner-editor-vs-expert-editor",
+    "creator": "Jack Cole",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=59iRNTYsIXk",
+    "timestamp": "00:01",
+    "visualCategory": "Motion Graphics",
+    "complexity": "Média",
+    "hookStructure": "Composição gráfica com objetos, ícones e formas animadas por scale, blur e deslocamento rápido.",
+    "howToRecreate": "Separar objeto principal, ícones auxiliares e formas de apoio. Aplicar scale, position, motion blur e glow discreto para gerar impacto rápido.",
+    "assetsNeeded": [
+      "Objeto principal",
+      "Ícones",
+      "Formas simples",
+      "Glow/blur",
+      "Whoosh curto"
+    ],
+    "estimatedProductionTime": "45-120 min",
+    "notes": "Referência coletada para estudar estrutura visual de motion graphics nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "jack-cole-how-to-make-your-first-1-000-video-editing-online",
+    "creator": "Jack Cole",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=DMGJotE7gwU",
+    "timestamp": "00:01",
+    "visualCategory": "Motion Graphics",
+    "complexity": "Média",
+    "hookStructure": "Elemento central em destaque com micro animações periféricas para criar impacto visual antes da explicação.",
+    "howToRecreate": "Separar objeto principal, ícones auxiliares e formas de apoio. Aplicar scale, position, motion blur e glow discreto para gerar impacto rápido.",
+    "assetsNeeded": [
+      "Objeto principal",
+      "Ícones",
+      "Formas simples",
+      "Glow/blur",
+      "Whoosh curto"
+    ],
+    "estimatedProductionTime": "45-120 min",
+    "notes": "Referência coletada para estudar estrutura visual de motion graphics nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "johnny-harris-why-groceries-are-so-expensive-now",
+    "creator": "Johnny Harris",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=wyo1u9WxUG4",
+    "timestamp": "00:01",
+    "visualCategory": "Mapas & Diagramas",
+    "complexity": "Alta",
+    "hookStructure": "Mapa mental com nó central, linhas conectoras e cards laterais para explicar relação entre ideias rapidamente.",
+    "howToRecreate": "Criar nó central, cards pequenos, linhas conectoras e setas. Animar expansão radial e organizar tudo em uma grade invisível para manter leitura rápida.",
+    "assetsNeeded": [
+      "Cards modulares",
+      "Linhas conectoras",
+      "Setas",
+      "Ícones de categoria",
+      "Preset de stagger"
+    ],
+    "estimatedProductionTime": "90-180 min",
+    "notes": "Referência coletada para estudar estrutura visual de mapas & diagramas nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "johnny-harris-inside-the-200-billion-mormon-empire-full-documentary",
+    "creator": "Johnny Harris",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=Pc6sCGS6Jfc",
+    "timestamp": "00:01",
+    "visualCategory": "Mapas & Diagramas",
+    "complexity": "Alta",
+    "hookStructure": "Diagrama com setas, rotas e blocos conectados para mostrar sistema, processo ou causa e efeito.",
+    "howToRecreate": "Criar nó central, cards pequenos, linhas conectoras e setas. Animar expansão radial e organizar tudo em uma grade invisível para manter leitura rápida.",
+    "assetsNeeded": [
+      "Cards modulares",
+      "Linhas conectoras",
+      "Setas",
+      "Ícones de categoria",
+      "Preset de stagger"
+    ],
+    "estimatedProductionTime": "90-180 min",
+    "notes": "Referência coletada para estudar estrutura visual de mapas & diagramas nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "johnny-harris-truth-vs-lies-the-science-of-why-we-believe-misinformation",
+    "creator": "Johnny Harris",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=yWgG3Mgn2Gc",
+    "timestamp": "00:01",
+    "visualCategory": "Mapas & Diagramas",
+    "complexity": "Alta",
+    "hookStructure": "Mapa mental com nó central, linhas conectoras e cards laterais para explicar relação entre ideias rapidamente.",
+    "howToRecreate": "Criar nó central, cards pequenos, linhas conectoras e setas. Animar expansão radial e organizar tudo em uma grade invisível para manter leitura rápida.",
+    "assetsNeeded": [
+      "Cards modulares",
+      "Linhas conectoras",
+      "Setas",
+      "Ícones de categoria",
+      "Preset de stagger"
+    ],
+    "estimatedProductionTime": "90-180 min",
+    "notes": "Referência coletada para estudar estrutura visual de mapas & diagramas nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "johnny-harris-how-capitalism-changed-the-face-of-war",
+    "creator": "Johnny Harris",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=d-gjsTh4cQg",
+    "timestamp": "00:01",
+    "visualCategory": "Mapas & Diagramas",
+    "complexity": "Alta",
+    "hookStructure": "Diagrama com setas, rotas e blocos conectados para mostrar sistema, processo ou causa e efeito.",
+    "howToRecreate": "Criar nó central, cards pequenos, linhas conectoras e setas. Animar expansão radial e organizar tudo em uma grade invisível para manter leitura rápida.",
+    "assetsNeeded": [
+      "Cards modulares",
+      "Linhas conectoras",
+      "Setas",
+      "Ícones de categoria",
+      "Preset de stagger"
+    ],
+    "estimatedProductionTime": "90-180 min",
+    "notes": "Referência coletada para estudar estrutura visual de mapas & diagramas nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "james-jani-james-jani",
+    "creator": "James Jani",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/channel/UCT0dmfFCLWuVKPWZ6wcdKyg",
+    "timestamp": "00:01",
+    "visualCategory": "Documentos",
+    "complexity": "Alta",
+    "hookStructure": "Documento, arquivo ou página editorial usado como prova visual, com highlights e zoom no detalhe relevante.",
+    "howToRecreate": "Criar uma página ou arquivo falso, adicionar marcações, sublinhados e recortes. Animar com zoom de câmera e pequenas batidas de highlight.",
+    "assetsNeeded": [
+      "Mockup de documento",
+      "Highlights",
+      "Recortes",
+      "Sombra de papel",
+      "Textura sutil"
+    ],
+    "estimatedProductionTime": "90-180 min",
+    "notes": "Referência coletada para estudar estrutura visual de documentos nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "james-jani-the-fake-genius-a-30-billion-fraud",
+    "creator": "James Jani",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=w3EYKuFGJ5c",
+    "timestamp": "00:01",
+    "visualCategory": "Documentos",
+    "complexity": "Alta",
+    "hookStructure": "Pilha de documentos e recortes com movimento de câmera para criar sensação de pesquisa e investigação.",
+    "howToRecreate": "Criar uma página ou arquivo falso, adicionar marcações, sublinhados e recortes. Animar com zoom de câmera e pequenas batidas de highlight.",
+    "assetsNeeded": [
+      "Mockup de documento",
+      "Highlights",
+      "Recortes",
+      "Sombra de papel",
+      "Textura sutil"
+    ],
+    "estimatedProductionTime": "90-180 min",
+    "notes": "Referência coletada para estudar estrutura visual de documentos nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "james-jani-the-untold-truth-about-money-how-to-build-wealth-from-nothing",
+    "creator": "James Jani",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=6mRbDEtDoyA",
+    "timestamp": "00:01",
+    "visualCategory": "Documentos",
+    "complexity": "Alta",
+    "hookStructure": "Documento, arquivo ou página editorial usado como prova visual, com highlights e zoom no detalhe relevante.",
+    "howToRecreate": "Criar uma página ou arquivo falso, adicionar marcações, sublinhados e recortes. Animar com zoom de câmera e pequenas batidas de highlight.",
+    "assetsNeeded": [
+      "Mockup de documento",
+      "Highlights",
+      "Recortes",
+      "Sombra de papel",
+      "Textura sutil"
+    ],
+    "estimatedProductionTime": "90-180 min",
+    "notes": "Referência coletada para estudar estrutura visual de documentos nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "james-jani-the-cult-of-the-dead-stock",
+    "creator": "James Jani",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=C5Bd6YxifCo",
+    "timestamp": "00:01",
+    "visualCategory": "Documentos",
+    "complexity": "Alta",
+    "hookStructure": "Pilha de documentos e recortes com movimento de câmera para criar sensação de pesquisa e investigação.",
+    "howToRecreate": "Criar uma página ou arquivo falso, adicionar marcações, sublinhados e recortes. Animar com zoom de câmera e pequenas batidas de highlight.",
+    "assetsNeeded": [
+      "Mockup de documento",
+      "Highlights",
+      "Recortes",
+      "Sombra de papel",
+      "Textura sutil"
+    ],
+    "estimatedProductionTime": "90-180 min",
+    "notes": "Referência coletada para estudar estrutura visual de documentos nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "fern-how-cocaine-is-destroying-europe",
+    "creator": "Fern",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=ydnpyYEhP30",
+    "timestamp": "00:01",
+    "visualCategory": "Mapas & Diagramas",
+    "complexity": "Alta",
+    "hookStructure": "Mapa mental com nó central, linhas conectoras e cards laterais para explicar relação entre ideias rapidamente.",
+    "howToRecreate": "Criar nó central, cards pequenos, linhas conectoras e setas. Animar expansão radial e organizar tudo em uma grade invisível para manter leitura rápida.",
+    "assetsNeeded": [
+      "Cards modulares",
+      "Linhas conectoras",
+      "Setas",
+      "Ícones de categoria",
+      "Preset de stagger"
+    ],
+    "estimatedProductionTime": "90-180 min",
+    "notes": "Referência coletada para estudar estrutura visual de mapas & diagramas nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "fern-shell-s-biggest-marketing-scam",
+    "creator": "Fern",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=Jrao3wBit0A",
+    "timestamp": "00:01",
+    "visualCategory": "Mapas & Diagramas",
+    "complexity": "Alta",
+    "hookStructure": "Diagrama com setas, rotas e blocos conectados para mostrar sistema, processo ou causa e efeito.",
+    "howToRecreate": "Criar nó central, cards pequenos, linhas conectoras e setas. Animar expansão radial e organizar tudo em uma grade invisível para manter leitura rápida.",
+    "assetsNeeded": [
+      "Cards modulares",
+      "Linhas conectoras",
+      "Setas",
+      "Ícones de categoria",
+      "Preset de stagger"
+    ],
+    "estimatedProductionTime": "90-180 min",
+    "notes": "Referência coletada para estudar estrutura visual de mapas & diagramas nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "fern-how-to-escape-auschwitz",
+    "creator": "Fern",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=OWykKXo1k7w",
+    "timestamp": "00:01",
+    "visualCategory": "Mapas & Diagramas",
+    "complexity": "Alta",
+    "hookStructure": "Mapa mental com nó central, linhas conectoras e cards laterais para explicar relação entre ideias rapidamente.",
+    "howToRecreate": "Criar nó central, cards pequenos, linhas conectoras e setas. Animar expansão radial e organizar tudo em uma grade invisível para manter leitura rápida.",
+    "assetsNeeded": [
+      "Cards modulares",
+      "Linhas conectoras",
+      "Setas",
+      "Ícones de categoria",
+      "Preset de stagger"
+    ],
+    "estimatedProductionTime": "90-180 min",
+    "notes": "Referência coletada para estudar estrutura visual de mapas & diagramas nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "fern-why-the-u-s-president-is-almost-impossible-to-kill",
+    "creator": "Fern",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=-1DvXSsWKLI",
+    "timestamp": "00:01",
+    "visualCategory": "Mapas & Diagramas",
+    "complexity": "Alta",
+    "hookStructure": "Diagrama com setas, rotas e blocos conectados para mostrar sistema, processo ou causa e efeito.",
+    "howToRecreate": "Criar nó central, cards pequenos, linhas conectoras e setas. Animar expansão radial e organizar tudo em uma grade invisível para manter leitura rápida.",
+    "assetsNeeded": [
+      "Cards modulares",
+      "Linhas conectoras",
+      "Setas",
+      "Ícones de categoria",
+      "Preset de stagger"
+    ],
+    "estimatedProductionTime": "90-180 min",
+    "notes": "Referência coletada para estudar estrutura visual de mapas & diagramas nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "neo-the-most-controversial-place-america-owns",
+    "creator": "neo",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=iFbDHtQN3Bs",
+    "timestamp": "00:01",
+    "visualCategory": "3D & HUDs",
+    "complexity": "Alta",
+    "hookStructure": "Overlay técnico com profundidade falsa, linhas de mira, grid e elementos flutuantes em estilo HUD.",
+    "howToRecreate": "Empilhar painéis semi-transparentes, adicionar linhas, grid e marcadores. Simular profundidade com escala, sombra e movimento de câmera lento.",
+    "assetsNeeded": [
+      "Painéis glass",
+      "Grid técnico",
+      "Linhas HUD",
+      "Marcadores",
+      "Câmera/parallax"
+    ],
+    "estimatedProductionTime": "90-180 min",
+    "notes": "Referência coletada para estudar estrutura visual de 3d & huds nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "neo-the-impossible-landing",
+    "creator": "neo",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=5Nkad_6aigM",
+    "timestamp": "00:01",
+    "visualCategory": "3D & HUDs",
+    "complexity": "Alta",
+    "hookStructure": "Cena com camadas 3D ou câmera parallax para dar sensação premium e tecnológica nos primeiros segundos.",
+    "howToRecreate": "Empilhar painéis semi-transparentes, adicionar linhas, grid e marcadores. Simular profundidade com escala, sombra e movimento de câmera lento.",
+    "assetsNeeded": [
+      "Painéis glass",
+      "Grid técnico",
+      "Linhas HUD",
+      "Marcadores",
+      "Câmera/parallax"
+    ],
+    "estimatedProductionTime": "90-180 min",
+    "notes": "Referência coletada para estudar estrutura visual de 3d & huds nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "neo-the-deepwater-horizon-disaster",
+    "creator": "neo",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=-lyyIvxy2Z4",
+    "timestamp": "00:01",
+    "visualCategory": "3D & HUDs",
+    "complexity": "Alta",
+    "hookStructure": "Overlay técnico com profundidade falsa, linhas de mira, grid e elementos flutuantes em estilo HUD.",
+    "howToRecreate": "Empilhar painéis semi-transparentes, adicionar linhas, grid e marcadores. Simular profundidade com escala, sombra e movimento de câmera lento.",
+    "assetsNeeded": [
+      "Painéis glass",
+      "Grid técnico",
+      "Linhas HUD",
+      "Marcadores",
+      "Câmera/parallax"
+    ],
+    "estimatedProductionTime": "90-180 min",
+    "notes": "Referência coletada para estudar estrutura visual de 3d & huds nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "neo-how-the-berlin-wall-worked",
+    "creator": "neo",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=KoJ0Pih0Ssc",
+    "timestamp": "00:01",
+    "visualCategory": "3D & HUDs",
+    "complexity": "Alta",
+    "hookStructure": "Cena com camadas 3D ou câmera parallax para dar sensação premium e tecnológica nos primeiros segundos.",
+    "howToRecreate": "Empilhar painéis semi-transparentes, adicionar linhas, grid e marcadores. Simular profundidade com escala, sombra e movimento de câmera lento.",
+    "assetsNeeded": [
+      "Painéis glass",
+      "Grid técnico",
+      "Linhas HUD",
+      "Marcadores",
+      "Câmera/parallax"
+    ],
+    "estimatedProductionTime": "90-180 min",
+    "notes": "Referência coletada para estudar estrutura visual de 3d & huds nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "magnatesmedia-the-insane-truth-about-openai",
+    "creator": "MagnatesMedia",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=dsDcQmJHwQc",
+    "timestamp": "00:01",
+    "visualCategory": "Documentos",
+    "complexity": "Alta",
+    "hookStructure": "Documento, arquivo ou página editorial usado como prova visual, com highlights e zoom no detalhe relevante.",
+    "howToRecreate": "Criar uma página ou arquivo falso, adicionar marcações, sublinhados e recortes. Animar com zoom de câmera e pequenas batidas de highlight.",
+    "assetsNeeded": [
+      "Mockup de documento",
+      "Highlights",
+      "Recortes",
+      "Sombra de papel",
+      "Textura sutil"
+    ],
+    "estimatedProductionTime": "90-180 min",
+    "notes": "Referência coletada para estudar estrutura visual de documentos nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "magnatesmedia-why-red-bull-isn-t-a-drink-company",
+    "creator": "MagnatesMedia",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=ubHS3It6dqg",
+    "timestamp": "00:01",
+    "visualCategory": "Documentos",
+    "complexity": "Alta",
+    "hookStructure": "Pilha de documentos e recortes com movimento de câmera para criar sensação de pesquisa e investigação.",
+    "howToRecreate": "Criar uma página ou arquivo falso, adicionar marcações, sublinhados e recortes. Animar com zoom de câmera e pequenas batidas de highlight.",
+    "assetsNeeded": [
+      "Mockup de documento",
+      "Highlights",
+      "Recortes",
+      "Sombra de papel",
+      "Textura sutil"
+    ],
+    "estimatedProductionTime": "90-180 min",
+    "notes": "Referência coletada para estudar estrutura visual de documentos nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "magnatesmedia-the-47-billion-cult",
+    "creator": "MagnatesMedia",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=c9Xm1bT50DQ",
+    "timestamp": "00:01",
+    "visualCategory": "Documentos",
+    "complexity": "Alta",
+    "hookStructure": "Documento, arquivo ou página editorial usado como prova visual, com highlights e zoom no detalhe relevante.",
+    "howToRecreate": "Criar uma página ou arquivo falso, adicionar marcações, sublinhados e recortes. Animar com zoom de câmera e pequenas batidas de highlight.",
+    "assetsNeeded": [
+      "Mockup de documento",
+      "Highlights",
+      "Recortes",
+      "Sombra de papel",
+      "Textura sutil"
+    ],
+    "estimatedProductionTime": "90-180 min",
+    "notes": "Referência coletada para estudar estrutura visual de documentos nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "magnatesmedia-the-richest-man-in-the-world-the-ugly-truth",
+    "creator": "MagnatesMedia",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=8aIyHl5qP9I",
+    "timestamp": "00:01",
+    "visualCategory": "Documentos",
+    "complexity": "Alta",
+    "hookStructure": "Pilha de documentos e recortes com movimento de câmera para criar sensação de pesquisa e investigação.",
+    "howToRecreate": "Criar uma página ou arquivo falso, adicionar marcações, sublinhados e recortes. Animar com zoom de câmera e pequenas batidas de highlight.",
+    "assetsNeeded": [
+      "Mockup de documento",
+      "Highlights",
+      "Recortes",
+      "Sombra de papel",
+      "Textura sutil"
+    ],
+    "estimatedProductionTime": "90-180 min",
+    "notes": "Referência coletada para estudar estrutura visual de documentos nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "thomas-flight-why-some-movies-feel-more-alive",
+    "creator": "Thomas Flight",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=vwUrzKaXyT4",
+    "timestamp": "00:01",
+    "visualCategory": "Comparações",
+    "complexity": "Média",
+    "hookStructure": "Antes/depois ou lado a lado com contraste forte entre dois estados visuais e transição curta de substituição.",
+    "howToRecreate": "Criar dois estados visuais lado a lado, destacar a diferença com cor, escala ou seta e animar a troca em menos de um segundo.",
+    "assetsNeeded": [
+      "Dois painéis",
+      "Seta ou divisor",
+      "Labels curtos",
+      "Textura de fundo",
+      "SFX de impacto"
+    ],
+    "estimatedProductionTime": "45-120 min",
+    "notes": "Referência coletada para estudar estrutura visual de comparações nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "thomas-flight-what-movies-lose-when-they-use-blender-cutting",
+    "creator": "Thomas Flight",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=kQBWPGYGJkk",
+    "timestamp": "00:01",
+    "visualCategory": "Comparações",
+    "complexity": "Média",
+    "hookStructure": "Sistema de comparação com colunas, labels e escala para evidenciar evolução, escolha ou diferença de qualidade.",
+    "howToRecreate": "Criar dois estados visuais lado a lado, destacar a diferença com cor, escala ou seta e animar a troca em menos de um segundo.",
+    "assetsNeeded": [
+      "Dois painéis",
+      "Seta ou divisor",
+      "Labels curtos",
+      "Textura de fundo",
+      "SFX de impacto"
+    ],
+    "estimatedProductionTime": "45-120 min",
+    "notes": "Referência coletada para estudar estrutura visual de comparações nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "thomas-flight-why-are-nolan-movies-like-that",
+    "creator": "Thomas Flight",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=VTxslTHKsIE",
+    "timestamp": "00:01",
+    "visualCategory": "Comparações",
+    "complexity": "Média",
+    "hookStructure": "Antes/depois ou lado a lado com contraste forte entre dois estados visuais e transição curta de substituição.",
+    "howToRecreate": "Criar dois estados visuais lado a lado, destacar a diferença com cor, escala ou seta e animar a troca em menos de um segundo.",
+    "assetsNeeded": [
+      "Dois painéis",
+      "Seta ou divisor",
+      "Labels curtos",
+      "Textura de fundo",
+      "SFX de impacto"
+    ],
+    "estimatedProductionTime": "45-120 min",
+    "notes": "Referência coletada para estudar estrutura visual de comparações nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "thomas-flight-tenet-nolan-has-an-exposition-problem",
+    "creator": "Thomas Flight",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=lsqvmZbskGo",
+    "timestamp": "00:01",
+    "visualCategory": "Comparações",
+    "complexity": "Média",
+    "hookStructure": "Sistema de comparação com colunas, labels e escala para evidenciar evolução, escolha ou diferença de qualidade.",
+    "howToRecreate": "Criar dois estados visuais lado a lado, destacar a diferença com cor, escala ou seta e animar a troca em menos de um segundo.",
+    "assetsNeeded": [
+      "Dois painéis",
+      "Seta ou divisor",
+      "Labels curtos",
+      "Textura de fundo",
+      "SFX de impacto"
+    ],
+    "estimatedProductionTime": "45-120 min",
+    "notes": "Referência coletada para estudar estrutura visual de comparações nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "nerdwriter1-andor-gave-us-one-of-tv-s-best-monologues",
+    "creator": "Nerdwriter1",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=KWtfuHNaF8Q",
+    "timestamp": "00:01",
+    "visualCategory": "Documentos",
+    "complexity": "Média",
+    "hookStructure": "Documento, arquivo ou página editorial usado como prova visual, com highlights e zoom no detalhe relevante.",
+    "howToRecreate": "Criar uma página ou arquivo falso, adicionar marcações, sublinhados e recortes. Animar com zoom de câmera e pequenas batidas de highlight.",
+    "assetsNeeded": [
+      "Mockup de documento",
+      "Highlights",
+      "Recortes",
+      "Sombra de papel",
+      "Textura sutil"
+    ],
+    "estimatedProductionTime": "45-120 min",
+    "notes": "Referência coletada para estudar estrutura visual de documentos nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "nerdwriter1-succession-say-what-you-mean",
+    "creator": "Nerdwriter1",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=REhlyvtiIhQ",
+    "timestamp": "00:01",
+    "visualCategory": "Documentos",
+    "complexity": "Média",
+    "hookStructure": "Pilha de documentos e recortes com movimento de câmera para criar sensação de pesquisa e investigação.",
+    "howToRecreate": "Criar uma página ou arquivo falso, adicionar marcações, sublinhados e recortes. Animar com zoom de câmera e pequenas batidas de highlight.",
+    "assetsNeeded": [
+      "Mockup de documento",
+      "Highlights",
+      "Recortes",
+      "Sombra de papel",
+      "Textura sutil"
+    ],
+    "estimatedProductionTime": "45-120 min",
+    "notes": "Referência coletada para estudar estrutura visual de documentos nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "nerdwriter1-logan-superhero-movies-get-old",
+    "creator": "Nerdwriter1",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=pT75YHqlD9k",
+    "timestamp": "00:01",
+    "visualCategory": "Documentos",
+    "complexity": "Média",
+    "hookStructure": "Documento, arquivo ou página editorial usado como prova visual, com highlights e zoom no detalhe relevante.",
+    "howToRecreate": "Criar uma página ou arquivo falso, adicionar marcações, sublinhados e recortes. Animar com zoom de câmera e pequenas batidas de highlight.",
+    "assetsNeeded": [
+      "Mockup de documento",
+      "Highlights",
+      "Recortes",
+      "Sombra de papel",
+      "Textura sutil"
+    ],
+    "estimatedProductionTime": "45-120 min",
+    "notes": "Referência coletada para estudar estrutura visual de documentos nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "nerdwriter1-the-prestige-hiding-in-plain-sight",
+    "creator": "Nerdwriter1",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=d46Azg3Pm4c",
+    "timestamp": "00:01",
+    "visualCategory": "Documentos",
+    "complexity": "Média",
+    "hookStructure": "Pilha de documentos e recortes com movimento de câmera para criar sensação de pesquisa e investigação.",
+    "howToRecreate": "Criar uma página ou arquivo falso, adicionar marcações, sublinhados e recortes. Animar com zoom de câmera e pequenas batidas de highlight.",
+    "assetsNeeded": [
+      "Mockup de documento",
+      "Highlights",
+      "Recortes",
+      "Sombra de papel",
+      "Textura sutil"
+    ],
+    "estimatedProductionTime": "45-120 min",
+    "notes": "Referência coletada para estudar estrutura visual de documentos nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "lessons-from-the-screenplay-the-dark-knight-creating-the-ultimate-antagonist",
+    "creator": "Lessons from the Screenplay",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=pFUKeD3FJm8",
+    "timestamp": "00:01",
+    "visualCategory": "Documentos",
+    "complexity": "Média",
+    "hookStructure": "Documento, arquivo ou página editorial usado como prova visual, com highlights e zoom no detalhe relevante.",
+    "howToRecreate": "Criar uma página ou arquivo falso, adicionar marcações, sublinhados e recortes. Animar com zoom de câmera e pequenas batidas de highlight.",
+    "assetsNeeded": [
+      "Mockup de documento",
+      "Highlights",
+      "Recortes",
+      "Sombra de papel",
+      "Textura sutil"
+    ],
+    "estimatedProductionTime": "45-120 min",
+    "notes": "Referência coletada para estudar estrutura visual de documentos nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "lessons-from-the-screenplay-gone-girl-don-t-underestimate-the-screenwriter",
+    "creator": "Lessons from the Screenplay",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=CF3lFPW4E1o",
+    "timestamp": "00:01",
+    "visualCategory": "Documentos",
+    "complexity": "Média",
+    "hookStructure": "Pilha de documentos e recortes com movimento de câmera para criar sensação de pesquisa e investigação.",
+    "howToRecreate": "Criar uma página ou arquivo falso, adicionar marcações, sublinhados e recortes. Animar com zoom de câmera e pequenas batidas de highlight.",
+    "assetsNeeded": [
+      "Mockup de documento",
+      "Highlights",
+      "Recortes",
+      "Sombra de papel",
+      "Textura sutil"
+    ],
+    "estimatedProductionTime": "45-120 min",
+    "notes": "Referência coletada para estudar estrutura visual de documentos nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "lessons-from-the-screenplay-whiplash-vs-black-swan-the-anatomy-of-the-obsessed-artist",
+    "creator": "Lessons from the Screenplay",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=ba-CB6wVuvQ",
+    "timestamp": "00:01",
+    "visualCategory": "Documentos",
+    "complexity": "Média",
+    "hookStructure": "Documento, arquivo ou página editorial usado como prova visual, com highlights e zoom no detalhe relevante.",
+    "howToRecreate": "Criar uma página ou arquivo falso, adicionar marcações, sublinhados e recortes. Animar com zoom de câmera e pequenas batidas de highlight.",
+    "assetsNeeded": [
+      "Mockup de documento",
+      "Highlights",
+      "Recortes",
+      "Sombra de papel",
+      "Textura sutil"
+    ],
+    "estimatedProductionTime": "45-120 min",
+    "notes": "Referência coletada para estudar estrutura visual de documentos nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "lessons-from-the-screenplay-the-social-network-sorkin-structure-and-collaboration",
+    "creator": "Lessons from the Screenplay",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=8IAGH6k17nw",
+    "timestamp": "00:01",
+    "visualCategory": "Documentos",
+    "complexity": "Média",
+    "hookStructure": "Pilha de documentos e recortes com movimento de câmera para criar sensação de pesquisa e investigação.",
+    "howToRecreate": "Criar uma página ou arquivo falso, adicionar marcações, sublinhados e recortes. Animar com zoom de câmera e pequenas batidas de highlight.",
+    "assetsNeeded": [
+      "Mockup de documento",
+      "Highlights",
+      "Recortes",
+      "Sombra de papel",
+      "Textura sutil"
+    ],
+    "estimatedProductionTime": "45-120 min",
+    "notes": "Referência coletada para estudar estrutura visual de documentos nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "colin-and-samir-colin-and-samir",
+    "creator": "Colin and Samir",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/channel/UCamLstJyCa-t5gfZegxsFMw",
+    "timestamp": "00:01",
+    "visualCategory": "Chats & DMs",
+    "complexity": "Média",
+    "hookStructure": "Troca de mensagens, notificações ou inbox simulada para transformar interação social em objeto visual imediato.",
+    "howToRecreate": "Construir bolhas de mensagem e notificações modulares. Revelar cada bloco com stagger de 80ms e usar um cursor ou badge para indicar o ponto principal.",
+    "assetsNeeded": [
+      "Bolhas de mensagem",
+      "Avatares",
+      "Badges",
+      "Cursor",
+      "SFX curto de notificação"
+    ],
+    "estimatedProductionTime": "45-120 min",
+    "notes": "Referência coletada para estudar estrutura visual de chats & dms nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "colin-and-samir-how-markiplier-made-a-movie-hollywood-couldn-t-ignore",
+    "creator": "Colin and Samir",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=W5Irjxu1FVI",
+    "timestamp": "00:01",
+    "visualCategory": "Chats & DMs",
+    "complexity": "Média",
+    "hookStructure": "Bolhas de chat e cards de mensagem aparecendo em stagger para criar contexto antes da fala.",
+    "howToRecreate": "Construir bolhas de mensagem e notificações modulares. Revelar cada bloco com stagger de 80ms e usar um cursor ou badge para indicar o ponto principal.",
+    "assetsNeeded": [
+      "Bolhas de mensagem",
+      "Avatares",
+      "Badges",
+      "Cursor",
+      "SFX curto de notificação"
+    ],
+    "estimatedProductionTime": "45-120 min",
+    "notes": "Referência coletada para estudar estrutura visual de chats & dms nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "colin-and-samir-how-subwaytakes-became-the-internet-s-favorite-show",
+    "creator": "Colin and Samir",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=TIqA43EeVLI",
+    "timestamp": "00:01",
+    "visualCategory": "Chats & DMs",
+    "complexity": "Média",
+    "hookStructure": "Troca de mensagens, notificações ou inbox simulada para transformar interação social em objeto visual imediato.",
+    "howToRecreate": "Construir bolhas de mensagem e notificações modulares. Revelar cada bloco com stagger de 80ms e usar um cursor ou badge para indicar o ponto principal.",
+    "assetsNeeded": [
+      "Bolhas de mensagem",
+      "Avatares",
+      "Badges",
+      "Cursor",
+      "SFX curto de notificação"
+    ],
+    "estimatedProductionTime": "45-120 min",
+    "notes": "Referência coletada para estudar estrutura visual de chats & dms nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "colin-and-samir-we-need-to-talk-about-backrooms",
+    "creator": "Colin and Samir",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=3BANOGc7kzI",
+    "timestamp": "00:01",
+    "visualCategory": "Chats & DMs",
+    "complexity": "Média",
+    "hookStructure": "Bolhas de chat e cards de mensagem aparecendo em stagger para criar contexto antes da fala.",
+    "howToRecreate": "Construir bolhas de mensagem e notificações modulares. Revelar cada bloco com stagger de 80ms e usar um cursor ou badge para indicar o ponto principal.",
+    "assetsNeeded": [
+      "Bolhas de mensagem",
+      "Avatares",
+      "Badges",
+      "Cursor",
+      "SFX curto de notificação"
+    ],
+    "estimatedProductionTime": "45-120 min",
+    "notes": "Referência coletada para estudar estrutura visual de chats & dms nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "ali-abdaal-success-is-hard-until-you-build-systems-like-this",
+    "creator": "Ali Abdaal",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=MBPHU7aaklM",
+    "timestamp": "00:01",
+    "visualCategory": "Dashboards",
+    "complexity": "Média",
+    "hookStructure": "Painel analítico com métricas, gráficos e cards de status para comunicar progresso ou contraste em poucos frames.",
+    "howToRecreate": "Montar cards de métrica, gráfico simples e status visual. Animar os números com count-up curto, revelar barras em sequência e manter contraste alto.",
+    "assetsNeeded": [
+      "Cards de métricas",
+      "Gráficos simples",
+      "Ícones de status",
+      "Grid",
+      "Preset de count-up"
+    ],
+    "estimatedProductionTime": "45-120 min",
+    "notes": "Referência coletada para estudar estrutura visual de dashboards nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "ali-abdaal-make-2026-the-best-year-of-your-life-evidence-based",
+    "creator": "Ali Abdaal",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=D_KSR3S6W8I",
+    "timestamp": "00:01",
+    "visualCategory": "Dashboards",
+    "complexity": "Média",
+    "hookStructure": "Sistema visual de dados com números grandes, blocos modulares e hierarquia clara para dar sensação de diagnóstico.",
+    "howToRecreate": "Montar cards de métrica, gráfico simples e status visual. Animar os números com count-up curto, revelar barras em sequência e manter contraste alto.",
+    "assetsNeeded": [
+      "Cards de métricas",
+      "Gráficos simples",
+      "Ícones de status",
+      "Grid",
+      "Preset de count-up"
+    ],
+    "estimatedProductionTime": "45-120 min",
+    "notes": "Referência coletada para estudar estrutura visual de dashboards nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "ali-abdaal-7-obsessive-habits-that-turned-me-into-a-multi-millionaire",
+    "creator": "Ali Abdaal",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=9rRvmcDpWwA",
+    "timestamp": "00:01",
+    "visualCategory": "Dashboards",
+    "complexity": "Média",
+    "hookStructure": "Painel analítico com métricas, gráficos e cards de status para comunicar progresso ou contraste em poucos frames.",
+    "howToRecreate": "Montar cards de métrica, gráfico simples e status visual. Animar os números com count-up curto, revelar barras em sequência e manter contraste alto.",
+    "assetsNeeded": [
+      "Cards de métricas",
+      "Gráficos simples",
+      "Ícones de status",
+      "Grid",
+      "Preset de count-up"
+    ],
+    "estimatedProductionTime": "45-120 min",
+    "notes": "Referência coletada para estudar estrutura visual de dashboards nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "ali-abdaal-the-ultimate-beginner-s-guide-to-claude-code",
+    "creator": "Ali Abdaal",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=qLMYOhaKcZs",
+    "timestamp": "00:01",
+    "visualCategory": "Dashboards",
+    "complexity": "Média",
+    "hookStructure": "Sistema visual de dados com números grandes, blocos modulares e hierarquia clara para dar sensação de diagnóstico.",
+    "howToRecreate": "Montar cards de métrica, gráfico simples e status visual. Animar os números com count-up curto, revelar barras em sequência e manter contraste alto.",
+    "assetsNeeded": [
+      "Cards de métricas",
+      "Gráficos simples",
+      "Ícones de status",
+      "Grid",
+      "Preset de count-up"
+    ],
+    "estimatedProductionTime": "45-120 min",
+    "notes": "Referência coletada para estudar estrutura visual de dashboards nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "paddy-galloway-paddy-galloway",
+    "creator": "Paddy Galloway",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/channel/UClga3ybuyyjpvqsh-cf3DvQ",
+    "timestamp": "00:01",
+    "visualCategory": "Dashboards",
+    "complexity": "Média",
+    "hookStructure": "Painel analítico com métricas, gráficos e cards de status para comunicar progresso ou contraste em poucos frames.",
+    "howToRecreate": "Montar cards de métrica, gráfico simples e status visual. Animar os números com count-up curto, revelar barras em sequência e manter contraste alto.",
+    "assetsNeeded": [
+      "Cards de métricas",
+      "Gráficos simples",
+      "Ícones de status",
+      "Grid",
+      "Preset de count-up"
+    ],
+    "estimatedProductionTime": "45-120 min",
+    "notes": "Referência coletada para estudar estrutura visual de dashboards nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "paddy-galloway-meet-the-godfather-of-youtube-strategy-paddy-galloway-interview",
+    "creator": "Paddy Galloway",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=UHhTKwclHCs",
+    "timestamp": "00:01",
+    "visualCategory": "Dashboards",
+    "complexity": "Média",
+    "hookStructure": "Sistema visual de dados com números grandes, blocos modulares e hierarquia clara para dar sensação de diagnóstico.",
+    "howToRecreate": "Montar cards de métrica, gráfico simples e status visual. Animar os números com count-up curto, revelar barras em sequência e manter contraste alto.",
+    "assetsNeeded": [
+      "Cards de métricas",
+      "Gráficos simples",
+      "Ícones de status",
+      "Grid",
+      "Preset de count-up"
+    ],
+    "estimatedProductionTime": "45-120 min",
+    "notes": "Referência coletada para estudar estrutura visual de dashboards nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "paddy-galloway-the-new-rules-of-youtube-from-a-50-billion-view-strategist",
+    "creator": "Paddy Galloway",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=dAR3d6xnG0o",
+    "timestamp": "00:01",
+    "visualCategory": "Dashboards",
+    "complexity": "Média",
+    "hookStructure": "Painel analítico com métricas, gráficos e cards de status para comunicar progresso ou contraste em poucos frames.",
+    "howToRecreate": "Montar cards de métrica, gráfico simples e status visual. Animar os números com count-up curto, revelar barras em sequência e manter contraste alto.",
+    "assetsNeeded": [
+      "Cards de métricas",
+      "Gráficos simples",
+      "Ícones de status",
+      "Grid",
+      "Preset de count-up"
+    ],
+    "estimatedProductionTime": "45-120 min",
+    "notes": "Referência coletada para estudar estrutura visual de dashboards nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "paddy-galloway-meet-the-man-who-solved-youtube-paddy-galloway-interview",
+    "creator": "Paddy Galloway",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=HEiAiPGatwc",
+    "timestamp": "00:01",
+    "visualCategory": "Dashboards",
+    "complexity": "Média",
+    "hookStructure": "Sistema visual de dados com números grandes, blocos modulares e hierarquia clara para dar sensação de diagnóstico.",
+    "howToRecreate": "Montar cards de métrica, gráfico simples e status visual. Animar os números com count-up curto, revelar barras em sequência e manter contraste alto.",
+    "assetsNeeded": [
+      "Cards de métricas",
+      "Gráficos simples",
+      "Ícones de status",
+      "Grid",
+      "Preset de count-up"
+    ],
+    "estimatedProductionTime": "45-120 min",
+    "notes": "Referência coletada para estudar estrutura visual de dashboards nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "the-futur-if-i-started-over-as-a-graphic-designer-i-d-do-this-to-hit-100k",
+    "creator": "The Futur",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=Zys3dt503Q4",
+    "timestamp": "00:01",
+    "visualCategory": "Mapas & Diagramas",
+    "complexity": "Média",
+    "hookStructure": "Mapa mental com nó central, linhas conectoras e cards laterais para explicar relação entre ideias rapidamente.",
+    "howToRecreate": "Criar nó central, cards pequenos, linhas conectoras e setas. Animar expansão radial e organizar tudo em uma grade invisível para manter leitura rápida.",
+    "assetsNeeded": [
+      "Cards modulares",
+      "Linhas conectoras",
+      "Setas",
+      "Ícones de categoria",
+      "Preset de stagger"
+    ],
+    "estimatedProductionTime": "45-120 min",
+    "notes": "Referência coletada para estudar estrutura visual de mapas & diagramas nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "the-futur-why-you-re-still-invisible-vidcon-personal-branding-talk",
+    "creator": "The Futur",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=hDlWbmH96hw",
+    "timestamp": "00:01",
+    "visualCategory": "Mapas & Diagramas",
+    "complexity": "Média",
+    "hookStructure": "Diagrama com setas, rotas e blocos conectados para mostrar sistema, processo ou causa e efeito.",
+    "howToRecreate": "Criar nó central, cards pequenos, linhas conectoras e setas. Animar expansão radial e organizar tudo em uma grade invisível para manter leitura rápida.",
+    "assetsNeeded": [
+      "Cards modulares",
+      "Linhas conectoras",
+      "Setas",
+      "Ícones de categoria",
+      "Preset de stagger"
+    ],
+    "estimatedProductionTime": "45-120 min",
+    "notes": "Referência coletada para estudar estrutura visual de mapas & diagramas nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "the-futur-you-don-t-need-a-lifetime-of-therapy-watch-this-instead",
+    "creator": "The Futur",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=m30YwxRJYcc",
+    "timestamp": "00:01",
+    "visualCategory": "Mapas & Diagramas",
+    "complexity": "Média",
+    "hookStructure": "Mapa mental com nó central, linhas conectoras e cards laterais para explicar relação entre ideias rapidamente.",
+    "howToRecreate": "Criar nó central, cards pequenos, linhas conectoras e setas. Animar expansão radial e organizar tudo em uma grade invisível para manter leitura rápida.",
+    "assetsNeeded": [
+      "Cards modulares",
+      "Linhas conectoras",
+      "Setas",
+      "Ícones de categoria",
+      "Preset de stagger"
+    ],
+    "estimatedProductionTime": "45-120 min",
+    "notes": "Referência coletada para estudar estrutura visual de mapas & diagramas nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "the-futur-don-t-chase-virality-do-this-instead",
+    "creator": "The Futur",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=GaDK_zVy1Cc",
+    "timestamp": "00:01",
+    "visualCategory": "Mapas & Diagramas",
+    "complexity": "Média",
+    "hookStructure": "Diagrama com setas, rotas e blocos conectados para mostrar sistema, processo ou causa e efeito.",
+    "howToRecreate": "Criar nó central, cards pequenos, linhas conectoras e setas. Animar expansão radial e organizar tudo em uma grade invisível para manter leitura rápida.",
+    "assetsNeeded": [
+      "Cards modulares",
+      "Linhas conectoras",
+      "Setas",
+      "Ícones de categoria",
+      "Preset de stagger"
+    ],
+    "estimatedProductionTime": "45-120 min",
+    "notes": "Referência coletada para estudar estrutura visual de mapas & diagramas nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "ben-marriott-master-motion-design-with-ben-marriott-an-advanced-animation-course",
+    "creator": "Ben Marriott",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=EyHO1liVCpo",
+    "timestamp": "00:01",
+    "visualCategory": "Motion Graphics",
+    "complexity": "Alta",
+    "hookStructure": "Composição gráfica com objetos, ícones e formas animadas por scale, blur e deslocamento rápido.",
+    "howToRecreate": "Separar objeto principal, ícones auxiliares e formas de apoio. Aplicar scale, position, motion blur e glow discreto para gerar impacto rápido.",
+    "assetsNeeded": [
+      "Objeto principal",
+      "Ícones",
+      "Formas simples",
+      "Glow/blur",
+      "Whoosh curto"
+    ],
+    "estimatedProductionTime": "90-180 min",
+    "notes": "Referência coletada para estudar estrutura visual de motion graphics nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "ben-marriott-motion-foundation-the-ultimate-beginners-guide-to-motion-design",
+    "creator": "Ben Marriott",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=87NZivpZOYY",
+    "timestamp": "00:01",
+    "visualCategory": "Motion Graphics",
+    "complexity": "Alta",
+    "hookStructure": "Elemento central em destaque com micro animações periféricas para criar impacto visual antes da explicação.",
+    "howToRecreate": "Separar objeto principal, ícones auxiliares e formas de apoio. Aplicar scale, position, motion blur e glow discreto para gerar impacto rápido.",
+    "assetsNeeded": [
+      "Objeto principal",
+      "Ícones",
+      "Formas simples",
+      "Glow/blur",
+      "Whoosh curto"
+    ],
+    "estimatedProductionTime": "90-180 min",
+    "notes": "Referência coletada para estudar estrutura visual de motion graphics nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "ben-marriott-i-ll-teach-you-after-effects-in-60-minutes",
+    "creator": "Ben Marriott",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=jFbRZZmMW7c",
+    "timestamp": "00:01",
+    "visualCategory": "Motion Graphics",
+    "complexity": "Alta",
+    "hookStructure": "Composição gráfica com objetos, ícones e formas animadas por scale, blur e deslocamento rápido.",
+    "howToRecreate": "Separar objeto principal, ícones auxiliares e formas de apoio. Aplicar scale, position, motion blur e glow discreto para gerar impacto rápido.",
+    "assetsNeeded": [
+      "Objeto principal",
+      "Ícones",
+      "Formas simples",
+      "Glow/blur",
+      "Whoosh curto"
+    ],
+    "estimatedProductionTime": "90-180 min",
+    "notes": "Referência coletada para estudar estrutura visual de motion graphics nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "ben-marriott-how-to-build-a-tutorial-empire-like-ben-marriott",
+    "creator": "Ben Marriott",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=Nyq1b4mSDlk",
+    "timestamp": "00:01",
+    "visualCategory": "Motion Graphics",
+    "complexity": "Alta",
+    "hookStructure": "Elemento central em destaque com micro animações periféricas para criar impacto visual antes da explicação.",
+    "howToRecreate": "Separar objeto principal, ícones auxiliares e formas de apoio. Aplicar scale, position, motion blur e glow discreto para gerar impacto rápido.",
+    "assetsNeeded": [
+      "Objeto principal",
+      "Ícones",
+      "Formas simples",
+      "Glow/blur",
+      "Whoosh curto"
+    ],
+    "estimatedProductionTime": "90-180 min",
+    "notes": "Referência coletada para estudar estrutura visual de motion graphics nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "jake-in-motion-will-this-ai-kill-motion-design-higgsfield-test",
+    "creator": "Jake In Motion",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=Kw3jM8DtWBo",
+    "timestamp": "00:01",
+    "visualCategory": "Motion Graphics",
+    "complexity": "Alta",
+    "hookStructure": "Composição gráfica com objetos, ícones e formas animadas por scale, blur e deslocamento rápido.",
+    "howToRecreate": "Separar objeto principal, ícones auxiliares e formas de apoio. Aplicar scale, position, motion blur e glow discreto para gerar impacto rápido.",
+    "assetsNeeded": [
+      "Objeto principal",
+      "Ícones",
+      "Formas simples",
+      "Glow/blur",
+      "Whoosh curto"
+    ],
+    "estimatedProductionTime": "90-180 min",
+    "notes": "Referência coletada para estudar estrutura visual de motion graphics nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "jake-in-motion-vibe-coding-an-after-effects-script-live",
+    "creator": "Jake In Motion",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=SUNH-x5ZbYU",
+    "timestamp": "00:01",
+    "visualCategory": "Motion Graphics",
+    "complexity": "Alta",
+    "hookStructure": "Elemento central em destaque com micro animações periféricas para criar impacto visual antes da explicação.",
+    "howToRecreate": "Separar objeto principal, ícones auxiliares e formas de apoio. Aplicar scale, position, motion blur e glow discreto para gerar impacto rápido.",
+    "assetsNeeded": [
+      "Objeto principal",
+      "Ícones",
+      "Formas simples",
+      "Glow/blur",
+      "Whoosh curto"
+    ],
+    "estimatedProductionTime": "90-180 min",
+    "notes": "Referência coletada para estudar estrutura visual de motion graphics nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "jake-in-motion-unveiling-my-biggest-ae-tool-live",
+    "creator": "Jake In Motion",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=9Q3Qgjwtp6Y",
+    "timestamp": "00:01",
+    "visualCategory": "Motion Graphics",
+    "complexity": "Alta",
+    "hookStructure": "Composição gráfica com objetos, ícones e formas animadas por scale, blur e deslocamento rápido.",
+    "howToRecreate": "Separar objeto principal, ícones auxiliares e formas de apoio. Aplicar scale, position, motion blur e glow discreto para gerar impacto rápido.",
+    "assetsNeeded": [
+      "Objeto principal",
+      "Ícones",
+      "Formas simples",
+      "Glow/blur",
+      "Whoosh curto"
+    ],
+    "estimatedProductionTime": "90-180 min",
+    "notes": "Referência coletada para estudar estrutura visual de motion graphics nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "jake-in-motion-edit-videos-in-after-effects-with-railcut",
+    "creator": "Jake In Motion",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=iVWj87MTmk8",
+    "timestamp": "00:01",
+    "visualCategory": "Motion Graphics",
+    "complexity": "Alta",
+    "hookStructure": "Elemento central em destaque com micro animações periféricas para criar impacto visual antes da explicação.",
+    "howToRecreate": "Separar objeto principal, ícones auxiliares e formas de apoio. Aplicar scale, position, motion blur e glow discreto para gerar impacto rápido.",
+    "assetsNeeded": [
+      "Objeto principal",
+      "Ícones",
+      "Formas simples",
+      "Glow/blur",
+      "Whoosh curto"
+    ],
+    "estimatedProductionTime": "90-180 min",
+    "notes": "Referência coletada para estudar estrutura visual de motion graphics nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "school-of-motion-school-of-motion-join-the-movement",
+    "creator": "School of Motion",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=Er04BDbtSIg",
+    "timestamp": "00:01",
+    "visualCategory": "Motion Graphics",
+    "complexity": "Alta",
+    "hookStructure": "Composição gráfica com objetos, ícones e formas animadas por scale, blur e deslocamento rápido.",
+    "howToRecreate": "Separar objeto principal, ícones auxiliares e formas de apoio. Aplicar scale, position, motion blur e glow discreto para gerar impacto rápido.",
+    "assetsNeeded": [
+      "Objeto principal",
+      "Ícones",
+      "Formas simples",
+      "Glow/blur",
+      "Whoosh curto"
+    ],
+    "estimatedProductionTime": "90-180 min",
+    "notes": "Referência coletada para estudar estrutura visual de motion graphics nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "school-of-motion-new-course-cavalry-kickstart",
+    "creator": "School of Motion",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=pI98wS6T3t4",
+    "timestamp": "00:01",
+    "visualCategory": "Motion Graphics",
+    "complexity": "Alta",
+    "hookStructure": "Elemento central em destaque com micro animações periféricas para criar impacto visual antes da explicação.",
+    "howToRecreate": "Separar objeto principal, ícones auxiliares e formas de apoio. Aplicar scale, position, motion blur e glow discreto para gerar impacto rápido.",
+    "assetsNeeded": [
+      "Objeto principal",
+      "Ícones",
+      "Formas simples",
+      "Glow/blur",
+      "Whoosh curto"
+    ],
+    "estimatedProductionTime": "90-180 min",
+    "notes": "Referência coletada para estudar estrutura visual de motion graphics nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "school-of-motion-you-don-t-need-a-job-futureproof-26-keynote",
+    "creator": "School of Motion",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=kqYMXJ7Q3ko",
+    "timestamp": "00:01",
+    "visualCategory": "Motion Graphics",
+    "complexity": "Alta",
+    "hookStructure": "Composição gráfica com objetos, ícones e formas animadas por scale, blur e deslocamento rápido.",
+    "howToRecreate": "Separar objeto principal, ícones auxiliares e formas de apoio. Aplicar scale, position, motion blur e glow discreto para gerar impacto rápido.",
+    "assetsNeeded": [
+      "Objeto principal",
+      "Ícones",
+      "Formas simples",
+      "Glow/blur",
+      "Whoosh curto"
+    ],
+    "estimatedProductionTime": "90-180 min",
+    "notes": "Referência coletada para estudar estrutura visual de motion graphics nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "school-of-motion-50-000-shaders-in-after-effects-c4d-s-uv-editor-gets-a-full-rebuild-moti",
+    "creator": "School of Motion",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=5xGAmwDR7Y4",
+    "timestamp": "00:01",
+    "visualCategory": "Motion Graphics",
+    "complexity": "Alta",
+    "hookStructure": "Elemento central em destaque com micro animações periféricas para criar impacto visual antes da explicação.",
+    "howToRecreate": "Separar objeto principal, ícones auxiliares e formas de apoio. Aplicar scale, position, motion blur e glow discreto para gerar impacto rápido.",
+    "assetsNeeded": [
+      "Objeto principal",
+      "Ícones",
+      "Formas simples",
+      "Glow/blur",
+      "Whoosh curto"
+    ],
+    "estimatedProductionTime": "90-180 min",
+    "notes": "Referência coletada para estudar estrutura visual de motion graphics nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "flux-academy-flux-academy",
+    "creator": "Flux Academy",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/channel/UCN7dywl5wDxTu1RM3eJ_h9Q",
+    "timestamp": "00:01",
+    "visualCategory": "Interfaces",
+    "complexity": "Média",
+    "hookStructure": "Interface em camadas com janelas, botões e estados visuais que transformam uma ideia abstrata em produto navegável.",
+    "howToRecreate": "Criar um mockup 1080x1920 com painel principal, barra superior, botões e um cursor animado. Usar scale-in curto, highlight no elemento focal e blur leve no fundo.",
+    "assetsNeeded": [
+      "Mockup de app/software",
+      "Cursor",
+      "Ícones",
+      "Cards UI",
+      "Preset de glass/blur"
+    ],
+    "estimatedProductionTime": "45-120 min",
+    "notes": "Referência coletada para estudar estrutura visual de interfaces nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "flux-academy-full-branding-case-study-textile-brand",
+    "creator": "Flux Academy",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=-MqwkxmTr8I",
+    "timestamp": "00:01",
+    "visualCategory": "Interfaces",
+    "complexity": "Média",
+    "hookStructure": "Mockup de aplicativo ou sistema com foco em um painel principal, usando cursor, zoom e recortes para guiar o olhar.",
+    "howToRecreate": "Criar um mockup 1080x1920 com painel principal, barra superior, botões e um cursor animado. Usar scale-in curto, highlight no elemento focal e blur leve no fundo.",
+    "assetsNeeded": [
+      "Mockup de app/software",
+      "Cursor",
+      "Ícones",
+      "Cards UI",
+      "Preset de glass/blur"
+    ],
+    "estimatedProductionTime": "45-120 min",
+    "notes": "Referência coletada para estudar estrutura visual de interfaces nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "flux-academy-figma-tutorial-for-beginners-complete-website-from-start-to-finish",
+    "creator": "Flux Academy",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=HZuk6Wkx_Eg",
+    "timestamp": "00:01",
+    "visualCategory": "Interfaces",
+    "complexity": "Média",
+    "hookStructure": "Interface em camadas com janelas, botões e estados visuais que transformam uma ideia abstrata em produto navegável.",
+    "howToRecreate": "Criar um mockup 1080x1920 com painel principal, barra superior, botões e um cursor animado. Usar scale-in curto, highlight no elemento focal e blur leve no fundo.",
+    "assetsNeeded": [
+      "Mockup de app/software",
+      "Cursor",
+      "Ícones",
+      "Cards UI",
+      "Preset de glass/blur"
+    ],
+    "estimatedProductionTime": "45-120 min",
+    "notes": "Referência coletada para estudar estrutura visual de interfaces nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "flux-academy-hire-not-hired-fast-portfolio-reviews",
+    "creator": "Flux Academy",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=KO5eOtR2njU",
+    "timestamp": "00:01",
+    "visualCategory": "Interfaces",
+    "complexity": "Média",
+    "hookStructure": "Mockup de aplicativo ou sistema com foco em um painel principal, usando cursor, zoom e recortes para guiar o olhar.",
+    "howToRecreate": "Criar um mockup 1080x1920 com painel principal, barra superior, botões e um cursor animado. Usar scale-in curto, highlight no elemento focal e blur leve no fundo.",
+    "assetsNeeded": [
+      "Mockup de app/software",
+      "Cursor",
+      "Ícones",
+      "Cards UI",
+      "Preset de glass/blur"
+    ],
+    "estimatedProductionTime": "45-120 min",
+    "notes": "Referência coletada para estudar estrutura visual de interfaces nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "designcourse-learn-ui-ux-for-free-30-videos-in-30-days",
+    "creator": "DesignCourse",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=X-_eMAaPv5I",
+    "timestamp": "00:01",
+    "visualCategory": "Interfaces",
+    "complexity": "Média",
+    "hookStructure": "Interface em camadas com janelas, botões e estados visuais que transformam uma ideia abstrata em produto navegável.",
+    "howToRecreate": "Criar um mockup 1080x1920 com painel principal, barra superior, botões e um cursor animado. Usar scale-in curto, highlight no elemento focal e blur leve no fundo.",
+    "assetsNeeded": [
+      "Mockup de app/software",
+      "Cursor",
+      "Ícones",
+      "Cards UI",
+      "Preset de glass/blur"
+    ],
+    "estimatedProductionTime": "45-120 min",
+    "notes": "Referência coletada para estudar estrutura visual de interfaces nos primeiros segundos, ignorando título e copy."
+  },
+  {
+    "id": "designcourse-designcourse-is-launched-learn-ui-ux-in-2022",
+    "creator": "DesignCourse",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=N4-SKG0DOXY",
+    "timestamp": "00:01",
+    "visualCategory": "Interfaces",
+    "complexity": "Média",
+    "hookStructure": "Mockup de aplicativo ou sistema com foco em um painel principal, usando cursor, zoom e recortes para guiar o olhar.",
+    "howToRecreate": "Criar um mockup 1080x1920 com painel principal, barra superior, botões e um cursor animado. Usar scale-in curto, highlight no elemento focal e blur leve no fundo.",
+    "assetsNeeded": [
+      "Mockup de app/software",
+      "Cursor",
+      "Ícones",
+      "Cards UI",
+      "Preset de glass/blur"
+    ],
+    "estimatedProductionTime": "45-120 min",
+    "notes": "Referência coletada para estudar estrutura visual de interfaces nos primeiros segundos, ignorando título e copy."
   }
 ]

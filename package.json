@@ -6,6 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
+    "discover": "tsx scripts/discover-youtube-hooks.ts",
     "capture": "tsx scripts/capture.ts",
     "lint": "next lint"
   },
